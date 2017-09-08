@@ -1,0 +1,2 @@
+source env-setup OCTEON_CN70XX
+make ARCH=mips CROSS_COMPILE=mips64-octeon-linux-gnu-
